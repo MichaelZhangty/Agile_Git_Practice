@@ -1,4 +1,6 @@
-# Trump Signs Executive Order Promoting Artificial Intelligence
+# Agile Software and DevOps Git Practice Assignment 
+
+## Trump Signs Executive Order Promoting Artificial Intelligence
 
 **Link:** https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html
 
